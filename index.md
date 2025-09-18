@@ -63,3 +63,10 @@ layout: default
 　　**预算优先**→ Digi+手动APN设置，但别远离城市。  
 
 　　说到底，手机卡像把钥匙，选对了才能打开罗马尼亚的秘境——那些藏在喀尔巴阡山脉里的湖，可不会自己跳上谷歌地图。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Romania eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/romania-data-plans)
